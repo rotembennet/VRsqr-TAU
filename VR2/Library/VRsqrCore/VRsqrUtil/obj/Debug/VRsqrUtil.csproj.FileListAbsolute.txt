@@ -1,0 +1,15 @@
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrUtil\bin\Debug\VRsqrUtil.dll
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrUtil\bin\Debug\VRsqrUtil.pdb
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrUtil\bin\Debug\UnityEngine.dll
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrUtil\bin\Debug\UnityEngine.xml
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrUtil\obj\Debug\VRsqrUtil.csproj.CoreCompileInputs.cache
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrUtil\obj\Debug\VRsqrUtil.csproj.CopyComplete
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrUtil\obj\Debug\VRsqrUtil.dll
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrUtil\obj\Debug\VRsqrUtil.pdb
+D:\Unity\VR2\Library\VRsqrCore\VRsqrUtil\bin\Debug\VRsqrUtil.dll
+D:\Unity\VR2\Library\VRsqrCore\VRsqrUtil\bin\Debug\VRsqrUtil.pdb
+D:\Unity\VR2\Library\VRsqrCore\VRsqrUtil\bin\Debug\UnityEngine.xml
+D:\Unity\VR2\Library\VRsqrCore\VRsqrUtil\obj\Debug\VRsqrUtil.csprojAssemblyReference.cache
+D:\Unity\VR2\Library\VRsqrCore\VRsqrUtil\obj\Debug\VRsqrUtil.csproj.CopyComplete
+D:\Unity\VR2\Library\VRsqrCore\VRsqrUtil\obj\Debug\VRsqrUtil.dll
+D:\Unity\VR2\Library\VRsqrCore\VRsqrUtil\obj\Debug\VRsqrUtil.pdb

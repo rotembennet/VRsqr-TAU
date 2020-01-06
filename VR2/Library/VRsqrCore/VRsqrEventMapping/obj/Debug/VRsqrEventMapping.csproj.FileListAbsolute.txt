@@ -1,0 +1,36 @@
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrEventMapping.dll
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrEventMapping.pdb
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\UnityEngine.dll
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrEventsManager.dll
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrUtil.dll
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrEventsManager.pdb
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\UnityEngine.xml
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrUtil.pdb
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.csprojAssemblyReference.cache
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.csproj.CoreCompileInputs.cache
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.csproj.CopyComplete
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.dll
+D:\Rotem\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.pdb
+D:\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrEventMapping.dll
+D:\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrEventMapping.pdb
+D:\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrEventsManager.dll
+D:\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrUtil.dll
+D:\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrEventsManager.pdb
+D:\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\UnityEngine.xml
+D:\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrUtil.pdb
+D:\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.csprojAssemblyReference.cache
+D:\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.csproj.CopyComplete
+D:\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.dll
+D:\Unity\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.pdb
+C:\Users\ARpalus\OneDrive\Work\TAU\Unity\VR2 for GitHub\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrEventMapping.dll
+C:\Users\ARpalus\OneDrive\Work\TAU\Unity\VR2 for GitHub\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrEventMapping.pdb
+C:\Users\ARpalus\OneDrive\Work\TAU\Unity\VR2 for GitHub\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrEventsManager.dll
+C:\Users\ARpalus\OneDrive\Work\TAU\Unity\VR2 for GitHub\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrUtil.dll
+C:\Users\ARpalus\OneDrive\Work\TAU\Unity\VR2 for GitHub\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrEventsManager.pdb
+C:\Users\ARpalus\OneDrive\Work\TAU\Unity\VR2 for GitHub\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\UnityEngine.xml
+C:\Users\ARpalus\OneDrive\Work\TAU\Unity\VR2 for GitHub\VR2\Library\VRsqrCore\VRsqrEventMapping\bin\Debug\VRsqrUtil.pdb
+C:\Users\ARpalus\OneDrive\Work\TAU\Unity\VR2 for GitHub\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.csprojAssemblyReference.cache
+C:\Users\ARpalus\OneDrive\Work\TAU\Unity\VR2 for GitHub\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.csproj.CoreCompileInputs.cache
+C:\Users\ARpalus\OneDrive\Work\TAU\Unity\VR2 for GitHub\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.csproj.CopyComplete
+C:\Users\ARpalus\OneDrive\Work\TAU\Unity\VR2 for GitHub\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.dll
+C:\Users\ARpalus\OneDrive\Work\TAU\Unity\VR2 for GitHub\VR2\Library\VRsqrCore\VRsqrEventMapping\obj\Debug\VRsqrEventMapping.pdb

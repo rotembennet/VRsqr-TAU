@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/VRsqr - Hello-World - 1.4.19.unity
+  isLoaded: 1
+  isActive: 1
